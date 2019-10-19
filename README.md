@@ -1,2 +1,2 @@
 # AgemChat
-Online and open-source chat!
+ Online Open-Source chat!
