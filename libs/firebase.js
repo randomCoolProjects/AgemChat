@@ -1,4 +1,4 @@
-const ROOT = 'relase/';
+const ROOT = '/relase/';
 const MSGPATH = ROOT + 'msg/';
 const BANPATH = ROOT + 'banned/'
 
